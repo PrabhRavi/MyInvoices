@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Invoices</string>
+    <string-array name="type">
+        <item>Clothes</item>
+        <item>Home</item>
+        <item>Stationery</item>
+        <item>Electronics</item>
+    </string-array>
+</resources>
